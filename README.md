@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+This was my first webpage with React in the process of learning it. The project is created following [Dev Ed's React Crash Course](https://www.youtube.com/watch?v=xc4uOzlndAk), but I switched the API in the tutorial from [Spoonacular](https://spoonacular.com/food-api) to [Edamama]
+(https://www.edamam.com), changing the code to fit the data structure of the latter.
+
+## How it turned out
+
+![Cooking webpage screenshot](./deliciouss-screenshot1.png?raw=true "Cooking page screenshot")
+
+![Cooking webpage screenshot2](./deliciouss-screenshot2.png?raw=true "Cooking page screenshot")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
